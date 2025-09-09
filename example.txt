@@ -1,0 +1,2 @@
+Hello, Welcome to FileWriter demo classething differenAppending some other string
+Adding a new line
